@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=EncoderL Old DesignItemId=Header 4H New DesignItemId=Header 4
+Change Component DesignItemId : Designator=EncoderR Old DesignItemId=Header 4H New DesignItemId=Header 4
+Change Component Footprint: Designator=EncoderL Old Footprint=HDR1X4H New Footprint=HDR1X4
+Change Component Footprint: Designator=EncoderR Old Footprint=HDR1X4H New Footprint=HDR1X4
+Change Component Comment : Designator=EncoderL Old Comment=Header 4H New Comment=Header 4
+Change Component Comment : Designator=EncoderR Old Comment=Header 4H New Comment=Header 4

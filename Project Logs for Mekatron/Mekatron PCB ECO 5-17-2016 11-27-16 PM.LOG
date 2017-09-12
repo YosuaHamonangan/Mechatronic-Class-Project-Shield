@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net*_95 Pin=HCTL-15
+Removed Pin From Net: NetName=Net*_94 Pin=HCTL-16
+Removed Pin From Net: NetName=Net*_93 Pin=HCTL-17
+Removed Pin From Net: NetName=Net*_92 Pin=HCTL-18
+Removed Pin From Net: NetName=Net*_91 Pin=HCTL-19
+Removed Pin From Net: NetName=Net*_90 Pin=HCTL-20
+Removed Pin From Net: NetName=Net*_87 Pin=HCTL-21
+Removed Pin From Net: NetName=Net*_88 Pin=HCTL-22
+Added Pin To Net: NetName=Net*_94 Pin=HCTL-15
+Added Pin To Net: NetName=Net*_95 Pin=HCTL-16
+Added Pin To Net: NetName=Net*_92 Pin=HCTL-17
+Added Pin To Net: NetName=Net*_93 Pin=HCTL-18
+Added Pin To Net: NetName=Net*_90 Pin=HCTL-19
+Added Pin To Net: NetName=Net*_91 Pin=HCTL-20
+Added Pin To Net: NetName=Net*_88 Pin=HCTL-21
+Added Pin To Net: NetName=Net*_87 Pin=HCTL-22

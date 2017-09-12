@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net*_86 Pin=*-1
+Removed Pin From Net: NetName=Net*_86 Pin=*-77
+Added Component: Designator=P?(HDR1X3)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Member To Class: ClassName=Mekatron Member=Component P? Header 3
+Added Member To Class: ClassName=Mekatron Member=Component Servo Header 3
+Added Room: Name=Mekatron

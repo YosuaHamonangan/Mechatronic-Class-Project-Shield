@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net*_75 Pin=Servo-3
+Added Component: Designator=U?(N020)
+Added Pin To Net: NetName=5V Pin=U?-1
+Added Pin To Net: NetName=Net*_75 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=NetHC-SR04 1_3 Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=5V Pin=U?-20
+Added Pin To Net: NetName=NetServo_3 Pin=Servo-3
+Added Pin To Net: NetName=NetServo_3 Pin=U?-17
+Added Net: Name=NetServo_3
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Member To Class: ClassName=Mekatron Member=Component U? SN74HC245N

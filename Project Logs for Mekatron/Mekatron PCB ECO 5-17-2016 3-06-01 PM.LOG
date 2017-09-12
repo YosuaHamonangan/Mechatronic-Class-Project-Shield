@@ -1,0 +1,20 @@
+Added Component: Designator=*(STM32F3)
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_39 Pin=*-39
+Added Pin To Net: NetName=Net*_40 Pin=*-40
+Added Pin To Net: NetName=Net*_41 Pin=*-41
+Added Pin To Net: NetName=Net*_42 Pin=*-42
+Added Pin To Net: NetName=GND Pin=*-49
+Added Pin To Net: NetName=GND Pin=*-50
+Added Pin To Net: NetName=5V Pin=*-52
+Added Pin To Net: NetName=Net*_53 Pin=*-53
+Added Pin To Net: NetName=Net*_75 Pin=*-75
+Added Pin To Net: NetName=Net*_78 Pin=*-78
+Added Pin To Net: NetName=Net*_80 Pin=*-80
+Added Pin To Net: NetName=Net*_85 Pin=*-85
+Added Pin To Net: NetName=Net*_86 Pin=*-86
+Added Pin To Net: NetName=GND Pin=*-99
+Added Pin To Net: NetName=GND Pin=*-100
+Added Member To Class: ClassName=Mekatron Member=Component * STM32F3Discovery
+Added Room: Name=Mekatron

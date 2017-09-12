@@ -1,0 +1,155 @@
+Change Component DesignItemId : Designator=Motor Old DesignItemId=Header 8 New DesignItemId=Header 6
+Change Component Footprint: Designator=Motor Old Footprint=HDR1X8 New Footprint=HDR1X6
+Change Component Comment : Designator=Motor Old Comment=Header 8 New Comment=Header 6
+Added Pin To Net: NetName=3V Pin=*-1
+Added Pin To Net: NetName=3V Pin=EncoderL-2
+Added Pin To Net: NetName=3V Pin=EncoderR-2
+Added Net: Name=3V
+Added Pin To Net: NetName=5V Pin=*-52
+Added Pin To Net: NetName=5V Pin=HC05-4
+Added Pin To Net: NetName=5V Pin=HC-SR04 1-4
+Added Pin To Net: NetName=5V Pin=HC-SR04 2-4
+Added Pin To Net: NetName=5V Pin=HCTL-2
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Pin To Net: NetName=5V Pin=Servo-2
+Added Pin To Net: NetName=5V Pin=U?-1
+Added Pin To Net: NetName=5V Pin=U?-20
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-49
+Added Pin To Net: NetName=GND Pin=*-50
+Added Pin To Net: NetName=GND Pin=*-99
+Added Pin To Net: NetName=GND Pin=*-100
+Added Pin To Net: NetName=GND Pin=EncoderL-1
+Added Pin To Net: NetName=GND Pin=EncoderR-1
+Added Pin To Net: NetName=GND Pin=HC05-3
+Added Pin To Net: NetName=GND Pin=HC-SR04 1-1
+Added Pin To Net: NetName=GND Pin=HC-SR04 2-1
+Added Pin To Net: NetName=GND Pin=HCTL-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=Servo-1
+Added Pin To Net: NetName=GND Pin=SR1 2-1
+Added Pin To Net: NetName=GND Pin=SR2 2-1
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=HCTL-8
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=HCTL-10
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=HCTL-7
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=HCTL-9
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=HCTL-12
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_16 Pin=HCTL-11
+Added Net: Name=Net*_16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_17 Pin=HCTL-14
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_18 Pin=HCTL-13
+Added Net: Name=Net*_18
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_25 Pin=SR1 1-1
+Added Pin To Net: NetName=Net*_25 Pin=SR1 2-2
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_41 Pin=*-41
+Added Pin To Net: NetName=Net*_41 Pin=Motor-5
+Added Net: Name=Net*_41
+Added Pin To Net: NetName=Net*_43 Pin=*-43
+Added Pin To Net: NetName=Net*_43 Pin=EncoderR-4
+Added Net: Name=Net*_43
+Added Pin To Net: NetName=Net*_44 Pin=*-44
+Added Pin To Net: NetName=Net*_44 Pin=EncoderR-3
+Added Net: Name=Net*_44
+Added Pin To Net: NetName=Net*_47 Pin=*-47
+Added Pin To Net: NetName=Net*_47 Pin=EncoderL-3
+Added Net: Name=Net*_47
+Added Pin To Net: NetName=Net*_48 Pin=*-48
+Added Pin To Net: NetName=Net*_48 Pin=EncoderL-4
+Added Net: Name=Net*_48
+Added Pin To Net: NetName=Net*_53 Pin=*-53
+Added Pin To Net: NetName=Net*_53 Pin=SR2 1-1
+Added Pin To Net: NetName=Net*_53 Pin=SR2 2-2
+Added Net: Name=Net*_53
+Added Pin To Net: NetName=Net*_75 Pin=*-75
+Added Pin To Net: NetName=Net*_75 Pin=U?-3
+Added Net: Name=Net*_75
+Added Pin To Net: NetName=Net*_76 Pin=*-76
+Added Pin To Net: NetName=Net*_76 Pin=Motor-4
+Added Net: Name=Net*_76
+Added Pin To Net: NetName=Net*_78 Pin=*-78
+Added Pin To Net: NetName=Net*_78 Pin=Motor-6
+Added Net: Name=Net*_78
+Added Pin To Net: NetName=Net*_80 Pin=*-80
+Added Pin To Net: NetName=Net*_80 Pin=Motor-1
+Added Net: Name=Net*_80
+Added Pin To Net: NetName=Net*_82 Pin=*-82
+Added Pin To Net: NetName=Net*_82 Pin=Motor-3
+Added Net: Name=Net*_82
+Added Pin To Net: NetName=Net*_84 Pin=*-84
+Added Pin To Net: NetName=Net*_84 Pin=Motor-2
+Added Net: Name=Net*_84
+Added Pin To Net: NetName=Net*_85 Pin=*-85
+Added Pin To Net: NetName=Net*_85 Pin=HC05-1
+Added Net: Name=Net*_85
+Added Pin To Net: NetName=Net*_86 Pin=*-86
+Added Pin To Net: NetName=Net*_86 Pin=HC05-2
+Added Net: Name=Net*_86
+Added Pin To Net: NetName=Net*_87 Pin=*-87
+Added Pin To Net: NetName=Net*_87 Pin=HCTL-16
+Added Net: Name=Net*_87
+Added Pin To Net: NetName=Net*_88 Pin=*-88
+Added Pin To Net: NetName=Net*_88 Pin=HCTL-15
+Added Net: Name=Net*_88
+Added Pin To Net: NetName=Net*_90 Pin=*-90
+Added Pin To Net: NetName=Net*_90 Pin=HCTL-17
+Added Net: Name=Net*_90
+Added Pin To Net: NetName=Net*_91 Pin=*-91
+Added Pin To Net: NetName=Net*_91 Pin=HCTL-18
+Added Net: Name=Net*_91
+Added Pin To Net: NetName=Net*_92 Pin=*-92
+Added Pin To Net: NetName=Net*_92 Pin=HCTL-19
+Added Net: Name=Net*_92
+Added Pin To Net: NetName=Net*_93 Pin=*-93
+Added Pin To Net: NetName=Net*_93 Pin=HCTL-20
+Added Net: Name=Net*_93
+Added Pin To Net: NetName=Net*_94 Pin=*-94
+Added Pin To Net: NetName=Net*_94 Pin=HCTL-21
+Added Net: Name=Net*_94
+Added Pin To Net: NetName=Net*_95 Pin=*-95
+Added Pin To Net: NetName=Net*_95 Pin=HCTL-22
+Added Net: Name=Net*_95
+Added Pin To Net: NetName=NetHC-SR04 1_2 Pin=HC-SR04 1-2
+Added Pin To Net: NetName=NetHC-SR04 1_2 Pin=SR1 1-2
+Added Net: Name=NetHC-SR04 1_2
+Added Pin To Net: NetName=NetHC-SR04 1_3 Pin=HC-SR04 1-3
+Added Pin To Net: NetName=NetHC-SR04 1_3 Pin=HC-SR04 2-3
+Added Pin To Net: NetName=NetHC-SR04 1_3 Pin=U?-18
+Added Net: Name=NetHC-SR04 1_3
+Added Pin To Net: NetName=NetHC-SR04 2_2 Pin=HC-SR04 2-2
+Added Pin To Net: NetName=NetHC-SR04 2_2 Pin=SR2 1-2
+Added Net: Name=NetHC-SR04 2_2
+Added Pin To Net: NetName=NetHCTL_3 Pin=HCTL-3
+Added Net: Name=NetHCTL_3
+Added Pin To Net: NetName=NetHCTL_4 Pin=HCTL-4
+Added Net: Name=NetHCTL_4
+Added Pin To Net: NetName=NetHCTL_5 Pin=HCTL-5
+Added Net: Name=NetHCTL_5
+Added Pin To Net: NetName=NetHCTL_6 Pin=HCTL-6
+Added Net: Name=NetHCTL_6
+Added Pin To Net: NetName=NetServo_3 Pin=Servo-3
+Added Pin To Net: NetName=NetServo_3 Pin=U?-17
+Added Net: Name=NetServo_3
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Class: Name=Mekatron
+Added Room: Name=Mekatron

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=Motor-2
+Removed Pin From Net: NetName=Net*_40 Pin=Motor-3
+Removed Pin From Net: NetName=Net*_39 Pin=Motor-4
+Removed Pin From Net: NetName=Net*_78 Pin=Motor-5
+Removed Pin From Net: NetName=Net*_41 Pin=Motor-8
+Added Pin To Net: NetName=Net*_40 Pin=Motor-2
+Added Pin To Net: NetName=Net*_78 Pin=Motor-4
+Added Pin To Net: NetName=Net*_41 Pin=Motor-5
+Added Pin To Net: NetName=5V Pin=Motor-8
+Added Pin To Net: NetName=NetMotor_3 Pin=Motor-3
+Added Net: Name=NetMotor_3

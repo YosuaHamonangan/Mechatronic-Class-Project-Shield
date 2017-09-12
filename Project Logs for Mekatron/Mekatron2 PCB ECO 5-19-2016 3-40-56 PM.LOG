@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net*_76 Pin=*-41
+Added Component: Designator=P1(MHDR1X2)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Member To Class: ClassName=Mekatron Member=Component P1 MHDR1X2

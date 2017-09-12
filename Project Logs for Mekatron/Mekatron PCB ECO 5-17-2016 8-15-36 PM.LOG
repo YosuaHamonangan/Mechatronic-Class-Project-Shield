@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=Net*_75 Pin=Motor-6
+Removed Pin From Net: NetName=Net*_80 Pin=Servo-3
+Added Component: Designator=HCTL(HDR2X8)
+Added Pin To Net: NetName=Net*_80 Pin=Motor-6
+Added Pin To Net: NetName=Net*_75 Pin=Servo-3
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=Net*_21 Pin=HCTL-2
+Added Net: Name=Net*_21
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_22 Pin=HCTL-1
+Added Net: Name=Net*_22
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_24 Pin=HCTL-3
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=Net*_33 Pin=*-33
+Added Pin To Net: NetName=Net*_33 Pin=HCTL-12
+Added Net: Name=Net*_33
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=HCTL-11
+Added Net: Name=Net*_34
+Added Pin To Net: NetName=Net*_35 Pin=*-35
+Added Pin To Net: NetName=Net*_35 Pin=HCTL-14
+Added Net: Name=Net*_35
+Added Pin To Net: NetName=Net*_36 Pin=*-36
+Added Pin To Net: NetName=Net*_36 Pin=HCTL-13
+Added Net: Name=Net*_36
+Added Pin To Net: NetName=Net*_37 Pin=*-37
+Added Pin To Net: NetName=Net*_37 Pin=HCTL-16
+Added Net: Name=Net*_37
+Added Pin To Net: NetName=Net*_38 Pin=*-38
+Added Pin To Net: NetName=Net*_38 Pin=HCTL-15
+Added Net: Name=Net*_38
+Added Pin To Net: NetName=Net*_67 Pin=*-67
+Added Pin To Net: NetName=Net*_67 Pin=HCTL-9
+Added Net: Name=Net*_67
+Added Pin To Net: NetName=Net*_68 Pin=*-68
+Added Pin To Net: NetName=Net*_68 Pin=HCTL-10
+Added Net: Name=Net*_68
+Added Pin To Net: NetName=Net*_71 Pin=*-71
+Added Pin To Net: NetName=Net*_71 Pin=HCTL-7
+Added Net: Name=Net*_71
+Added Pin To Net: NetName=Net*_72 Pin=*-72
+Added Pin To Net: NetName=Net*_72 Pin=HCTL-8
+Added Net: Name=Net*_72
+Added Pin To Net: NetName=Net*_73 Pin=*-73
+Added Pin To Net: NetName=Net*_73 Pin=HCTL-5
+Added Net: Name=Net*_73
+Added Pin To Net: NetName=Net*_74 Pin=*-74
+Added Pin To Net: NetName=Net*_74 Pin=HCTL-6
+Added Net: Name=Net*_74
+Added Pin To Net: NetName=Net*_76 Pin=*-76
+Added Pin To Net: NetName=Net*_76 Pin=HCTL-4
+Added Net: Name=Net*_76
+Added Pin To Net: NetName=Net*_82 Pin=*-82
+Added Pin To Net: NetName=Net*_82 Pin=Motor-3
+Added Net: Name=Net*_82
+Added Pin To Net: NetName=Net*_84 Pin=*-84
+Added Pin To Net: NetName=Net*_84 Pin=Motor-2
+Added Net: Name=Net*_84
+Added Member To Class: ClassName=Mekatron Member=Component HCTL Header 8X2

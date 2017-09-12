@@ -1,0 +1,22 @@
+Added Component: Designator=EncoderL(HDR1X4H)
+Added Component: Designator=EncoderR(HDR1X4H)
+Added Pin To Net: NetName=GND Pin=EncoderL-1
+Added Pin To Net: NetName=GND Pin=EncoderR-1
+Added Pin To Net: NetName=3V Pin=*-1
+Added Pin To Net: NetName=3V Pin=EncoderL-2
+Added Pin To Net: NetName=3V Pin=EncoderR-2
+Added Net: Name=3V
+Added Pin To Net: NetName=Net*_43 Pin=*-43
+Added Pin To Net: NetName=Net*_43 Pin=EncoderR-4
+Added Net: Name=Net*_43
+Added Pin To Net: NetName=Net*_44 Pin=*-44
+Added Pin To Net: NetName=Net*_44 Pin=EncoderR-3
+Added Net: Name=Net*_44
+Added Pin To Net: NetName=Net*_47 Pin=*-47
+Added Pin To Net: NetName=Net*_47 Pin=EncoderL-3
+Added Net: Name=Net*_47
+Added Pin To Net: NetName=Net*_48 Pin=*-48
+Added Pin To Net: NetName=Net*_48 Pin=EncoderL-4
+Added Net: Name=Net*_48
+Added Member To Class: ClassName=Mekatron Member=Component EncoderL Header 4H
+Added Member To Class: ClassName=Mekatron Member=Component EncoderR Header 4H

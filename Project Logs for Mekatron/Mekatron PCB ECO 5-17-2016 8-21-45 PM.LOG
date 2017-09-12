@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Net*_78 Pin=Motor-4
+Removed Pin From Net: NetName=Net*_80 Pin=Motor-6
+Added Pin To Net: NetName=Net*_80 Pin=Motor-4
+Added Pin To Net: NetName=Net*_78 Pin=Motor-6

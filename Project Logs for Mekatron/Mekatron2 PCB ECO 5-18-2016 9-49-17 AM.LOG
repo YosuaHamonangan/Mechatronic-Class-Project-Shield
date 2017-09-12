@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net*_78 Pin=U?-4
+Removed Pin From Net: NetName=Net*_74 Pin=U?-6
+Removed Pin From Net: NetName=NetMotor_4 Pin=U?-14
+Removed Pin From Net: NetName=NetMotor_5 Pin=U?-15
+Removed Pin From Net: NetName=NetMotor_6 Pin=U?-16
+Added Pin To Net: NetName=Net*_74 Pin=U?-4
+Added Pin To Net: NetName=Net*_78 Pin=U?-5
+Added Pin To Net: NetName=NetMotor_5 Pin=U?-14
+Added Pin To Net: NetName=NetMotor_6 Pin=U?-15
+Added Pin To Net: NetName=NetMotor_4 Pin=U?-16
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Net: Name=NetU?_6

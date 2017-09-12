@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=5V Pin=P1-2
+Removed Member From Class: ClassName=Mekatron Member=P?
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR1X3)
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=5V Pin=P3-3
+Added Member To Class: ClassName=Mekatron Member=Component P2 Header 3
+Added Member To Class: ClassName=Mekatron Member=Component P3 Header 3

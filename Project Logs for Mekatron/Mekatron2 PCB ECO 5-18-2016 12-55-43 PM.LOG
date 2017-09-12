@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=HCTL-6
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=HCTL-5
+Added Net: Name=Net*_10

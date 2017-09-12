@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=Servo-1
+Added Pin To Net: NetName=5V Pin=Servo-2
+Added Member To Class: ClassName=Mekatron Member=Component * STM32F3Discovery
+Added Member To Class: ClassName=Mekatron Member=Component Servo Header 3
